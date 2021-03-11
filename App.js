@@ -23,7 +23,7 @@ const navigator = createStackNavigator(
     Box: BoxScreen
   },
   {
-    initialRouteName: 'Image',
+    initialRouteName: 'Home',
     defaultNavigationOptions: {
       title: 'App',
     },
